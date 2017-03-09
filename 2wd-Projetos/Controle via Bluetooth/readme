@@ -1,0 +1,3 @@
+A principio este projeto pode aparentar complicado pelo fato da conexão necessitar de uma aplicação além do que está contente no arduino, que no caso uma aplicação android, para fazer a conexão e dar os comandos para o robô. Porém, quem tem noções básicas de desenvolvimento android pode tirar isso de letra. Sendo assim este projeto foi divido em duas partes: A aplicação android e a aplicação arduino (não sei se é bem isso mesmo).
+Tentei deixar a aplicação android o mais simples  possivel. Para isso desenvolvi a aplicação usando o MITappinventor (em vez do androidStudio) para caso alguem queira modificá-lo não se perca em configurações e etc. 
+No futuro pretendo desenveolver uma aplicação mais completa... Mas por enquanto ele é o suficiente;
