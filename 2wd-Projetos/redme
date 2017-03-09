@@ -1,0 +1,4 @@
+Aqui existem algumas brincadeiras com um chassi (2wd) com 2 rodas movidas por 2 moteres DC que eu adquiri recentimente. Por enquanto e com os componentes que tenho desenvolvi dois projetos, que podem ser considerados muito simples... Mas no futuro pretendo implementar robôs mais robustos 
+Diretórios:
+	Evitando Obstáculo: Projeto de um carrinho autômato que desvia de obstáculos, sempre vai para o melhor caminho
+	Controle via Bluetooth: Projeto de um carrinho guiado remotamente via Bluetooth
